@@ -21,7 +21,7 @@ Mod for the Long Dark that adds better camera control for recording or streaming
   - only works in freebird or flymode
 
 
-<img src="https://github.com/moosemeat817/ModListJson/blob/main/ML_RecordingUtils.jpg" width="80%">
+<img src="https://github.com/moosemeat817/ModListJson/blob/main/RecordingUtils.jpg" width="80%">
 
 
 ## 🙏 Special Thanks
