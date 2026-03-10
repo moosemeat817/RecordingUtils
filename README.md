@@ -1,7 +1,6 @@
 # RecordingUtils
 Mod for the Long Dark that adds better camera control for recording or streaming purposes.
 
----
 
 ## Commands
 - animal_freeze
@@ -22,7 +21,6 @@ Mod for the Long Dark that adds better camera control for recording or streaming
   - only works in freebird or flymode
 
 
----
 
 ## 🙏 Special Thanks
 
