@@ -1,5 +1,7 @@
 # RecordingUtils
-od for the Long Dark that adds better camera control for recording or streaming purposes.
+Mod for the Long Dark that adds better camera control for recording or streaming purposes.
+
+---
 
 ## Commands
 - animal_freeze
@@ -18,3 +20,16 @@ od for the Long Dark that adds better camera control for recording or streaming 
   - loads last saved camera position and rotation
   - is tied to scene. can only load a save while in same scene
   - only works in freebird or flymode
+
+
+---
+
+## 🙏 Special Thanks
+
+- The Long Dark Modding Community (Discord)
+
+---
+
+
+If you enjoy using this mod, feel free to buy me a cup of coffee.  Thank you!
+https://ko-fi.com/moosemeat817
