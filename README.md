@@ -26,8 +26,6 @@ Mod for the Long Dark that adds better camera control for recording or streaming
 
 - The Long Dark Modding Community (Discord)
 
----
-
 
 If you enjoy using this mod, feel free to buy me a cup of coffee.  Thank you!
 https://ko-fi.com/moosemeat817
