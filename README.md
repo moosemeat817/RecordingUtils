@@ -27,6 +27,7 @@ Mod for the Long Dark that adds better camera control for recording or streaming
 ## 🙏 Special Thanks
 
 - To BigFish, the original creator of the mod.
+- DigitalZombie (original creator of Freebird)
 - The Long Dark Modding Community (Discord)
 
 
